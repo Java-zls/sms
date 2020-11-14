@@ -1,0 +1,4 @@
+
+
+webservice:
+  soapUrl: http://114.247.42.150:8080/SMSG/services/SMS
